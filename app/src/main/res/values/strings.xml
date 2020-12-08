@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TutoringShop</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="signup">signup</string>
+    <string name="admin">Admin</string>
+    <string name="logout">logout</string>
+</resources>
